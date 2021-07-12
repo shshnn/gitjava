@@ -12,7 +12,7 @@ public class MemberDTO {
 	
 	public MemberDTO(int mno, String id, String pwd, String name, String email, Date signdate) {
 		super();
-		this.mno = mno;
+		this.mno = mno; 
 		this.id = id;
 		this.pwd = pwd;
 		this.name = name;
